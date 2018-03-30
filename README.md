@@ -2,6 +2,14 @@
 
 The board is developed based on the [SIM7000C](http://www.simcomm2m.com/En/module/detail.aspx?id=167) and [SIM7000E](http://www.simcomm2m.com/En/module/detail.aspx?id=168) Modules as well as the Microcontroller ATMega 328 based on the most popular Arduino UNO PIN layout. Therefore this board is compatible with any shield that is compatible with the Arduino UNO
 
+### Distribution
+Any one can destribute or modify this deign. but originated souce should be published
+
+### NB-IOT /GPS sample and SDK
+[https://github.com/dialogiot/Dialog_NB-IOT_CAT-M](https://github.com/dialogiot/Dialog_NB-IOT_CAT-M)
+
+
+
 #### Drivers
 
 Download the [USB Drivers](https://github.com/botletics/SIM7000-LTE-Shield/wiki/SIM7000-USB-Drivers)
