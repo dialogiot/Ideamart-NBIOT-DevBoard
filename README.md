@@ -15,9 +15,9 @@ Any one can destribute or modify this deign. but originated souce should be publ
 Download the [USB Drivers](https://github.com/botletics/SIM7000-LTE-Shield/wiki/SIM7000-USB-Drivers)
 Note: Windows 10 users should use the Windows 8 Drivers
 
-<img src="https://docs.iot.ideamart.io/images/nbiot/QuickStart.png" width="800"></img>
+<img src="https://idealab.ideamart.io/NBIOT-Dev-Board/img/features/board-diagram.jpg" width="800"></img>
 
-[View Image](https://docs.iot.ideamart.io/images/nbiot/QuickStart.png)
+[View Image](https://idealab.ideamart.io/NBIOT-Dev-Board/img/features/board-diagram.jpg)
 
 |No|PIN |Description|
 |---|---|---|
